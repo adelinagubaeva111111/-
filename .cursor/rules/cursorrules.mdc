@@ -1,0 +1,6 @@
+---
+description: "Правила работы"
+globs: ["**/*"]
+alwaysApply: true
+---
+Перед любой задачей обязательно прочитай .cursorrules

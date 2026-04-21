@@ -1,0 +1,6 @@
+---
+description: 'Правила текста "пиши как я"'
+globs: ["**/*"]
+alwaysApply: true
+---
+Перед задачей прочитай STYLE/
